@@ -692,7 +692,7 @@ nav a:focus {
 	border: 0;
 }
 
-.callbacks_tabs {
+/* .callbacks_tabs {
 	list-style: none;
 	position: absolute;
 	top: -15%;
@@ -700,7 +700,7 @@ nav a:focus {
 	padding: 0;
 	margin: 0;
 	display: block;
-}
+} */
 
 .slider-top span {
 	font-weight: 600;
